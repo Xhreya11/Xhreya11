@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya 
-- 👀 I’m interested in learning new codes and creating a successful project on artificial limbs.
+- 👀 I’m interested in learning new codes and creating projects on artificial intelligence.
 - 🌱 I’m currently learning python and basic programming 
 - 💞️ I’m looking to collaborate on coding projects where i can learn new things.
 
